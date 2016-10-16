@@ -1,0 +1,26 @@
+Este ejercicio es similar al de www.somospnt.com
+
+
+El mismo tiene que quedar así:
+
+Modelos disponibles de aviones:
+F-16 tiene una capacidad de 3000.0kg de carga de armas, como también una capacidad de carga de combustible de 2000.0 L, su potencia es de 5000 Kg fuerza, puede llevar hasta 1 y su autonomía ronda en los 800.0 km de alcance sin re-abastecimiento.
+F-18 tiene una capacidad de 3800.0kg de carga de armas, como también una capacidad de carga de combustible de 2500.0 L, su potencia es de 6000 Kg fuerza, puede llevar hasta 2 y su autonomía ronda en los 1100.0 km de alcance sin re-abastecimiento.
+F-15 tiene una capacidad de 4200.0kg de carga de armas, como también una capacidad de carga de combustible de 3500.0 L, su potencia es de 6900 Kg fuerza, puede llevar hasta 2 y su autonomía ronda en los 2800.0 km de alcance sin re-abastecimiento.
+F-22 tiene una capacidad de 1800.0kg de carga de armas, como también una capacidad de carga de combustible de 2000.0 L, su potencia es de 4200 Kg fuerza, puede llevar hasta 1 y su autonomía ronda en los 2000.0 km de alcance sin re-abastecimiento.
+
+Modelos disponibles de helicopteros:
+MD-5 tiene una capacidad de 500.0kg de carga de armas, como también una capacidad de carga de combustible de 600.0 L, su potencia es de 700 Kg fuerza, puede llevar hasta 2, su autonomía ronda en los 300.0 km de alcance y su peso es de 1200
+AH-64 tiene una capacidad de 1500.0kg de carga de armas, como también una capacidad de carga de combustible de 1000.0 L, su potencia es de 1100 Kg fuerza, puede llevar hasta 2, su autonomía ronda en los 400.0 km de alcance y su peso es de 2500
+AH-1 tiene una capacidad de 150.0kg de carga de armas, como también una capacidad de carga de combustible de 1000.0 L, su potencia es de 1100 Kg fuerza, puede llevar hasta 10, su autonomía ronda en los 200.0 km de alcance y su peso es de 1000
+
+Estos son los oficiales arriba del barco:
+José Lopez es un Hombre, su edad es de 33 años, su altura es de 1.2m, no tiene familia, y su rango es alto
+
+
+Datos:
+• Sólo por objetos "no de forma estructurada" osea hay que hacer un archivo por cada objeto.
+• En este ejercicio se creó un constructor que reune las propiedades del padre llamandolás con un super() y le agrega más si tiene con un this.
+• En las carpetas hay más objetos, osea más clases que no se usan pero las agregué igual, por ejemplo "Cocineros", "botes", "botes exploradores".
+• Hay otras formas diferentes a toString() de plasmar los datos del objeto, sin embargo si se usa siempre primero va una variable. 
+
